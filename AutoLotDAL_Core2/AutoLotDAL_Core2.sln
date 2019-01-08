@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
@@ -35,3 +34,4 @@ Global
 		SolutionGuid = {B7D2CAA6-1EBC-43E8-B8C4-03544C20DD13}
 	EndGlobalSection
 EndGlobal
+

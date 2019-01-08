@@ -129,3 +129,4 @@ namespace AutoLotDAL_Core2.EF.Migrations
         }
     }
 }
+

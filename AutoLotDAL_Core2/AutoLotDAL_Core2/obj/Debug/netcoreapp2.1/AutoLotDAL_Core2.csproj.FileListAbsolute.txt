@@ -1,16 +1,3 @@
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.dll
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.csproj.CoreCompileInputs.cache
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.AssemblyInfoInputs.cache
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.AssemblyInfo.cs
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.deps.json
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.runtimeconfig.json
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.runtimeconfig.dev.json
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.dll
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.pdb
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.pdb
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.dll
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.pdb
-C:\Users\Chen\Documents\Visual Studio 2017\Projects\AutoLotDAL_Core2\AutoLotDAL_Core2\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.csprojResolveAssemblyReference.cache
 C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.deps.json
 C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.runtimeconfig.json
 C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\AutoLotDAL_Core2\AutoLotDAL_Core2\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.runtimeconfig.dev.json

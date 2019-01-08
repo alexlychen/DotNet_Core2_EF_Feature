@@ -11,6 +11,7 @@ namespace AutoLotDAL_Core2.DataInitialization
     {
         public static void InitializeData(AutoLotContext context)
         {
+
             var customers = new List<Customer>
             {
                 new Customer {FirstName = "Dave", LastName = "Brenner"},
