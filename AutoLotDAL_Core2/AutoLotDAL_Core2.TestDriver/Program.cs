@@ -21,7 +21,7 @@ namespace AutoLotDAL_Core2.TestDriver
                     Console.WriteLine(c);
                 }
 
-
+                //Dependency Injection
                 Console.WriteLine("Using a Repository\n");
                 using (var repo = new InventoryRepo(context))
                 {
@@ -30,8 +30,19 @@ namespace AutoLotDAL_Core2.TestDriver
                         Console.WriteLine(c);
                     }
                 }
-                Console.ReadLine();
+                //Console.ReadLine();
             }
+            
+            //fallback
+            Console.WriteLine("Using a Repository\n");
+            using (var repo = new InventoryRepo())
+            {
+                foreach (Inventory c in repo.GetAll())
+                {
+                    Console.WriteLine(c);
+                }
+            }
+            Console.ReadLine();
         }
     }
 }
