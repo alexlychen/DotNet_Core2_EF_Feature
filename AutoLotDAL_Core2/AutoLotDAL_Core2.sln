@@ -2,11 +2,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL_Core2", "AutoLotDAL_Core2\AutoLotDAL_Core2.csproj", "{D5C1294A-49D2-49EC-B169-41380E3F92AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLotDAL_Core2", "AutoLotDAL_Core2\AutoLotDAL_Core2.csproj", "{D5C1294A-49D2-49EC-B169-41380E3F92AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL_Core2.Models", "AutoLotDAL_Core2.Models\AutoLotDAL_Core2.Models.csproj", "{36C93C4B-7525-4F15-91FF-78AA08B66F63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLotDAL_Core2.Models", "AutoLotDAL_Core2.Models\AutoLotDAL_Core2.Models.csproj", "{36C93C4B-7525-4F15-91FF-78AA08B66F63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL_Core2.TestDriver", "AutoLotDAL_Core2.TestDriver\AutoLotDAL_Core2.TestDriver.csproj", "{2EF9148C-0D8D-4407-8546-2EF7E7919420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLotDAL_Core2.TestDriver", "AutoLotDAL_Core2.TestDriver\AutoLotDAL_Core2.TestDriver.csproj", "{2EF9148C-0D8D-4407-8546-2EF7E7919420}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,4 +34,3 @@ Global
 		SolutionGuid = {B7D2CAA6-1EBC-43E8-B8C4-03544C20DD13}
 	EndGlobalSection
 EndGlobal
-
