@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index With View Component</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@await Component.InvokeAsync("Inventory");

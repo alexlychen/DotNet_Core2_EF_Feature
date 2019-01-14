@@ -18,15 +18,20 @@ namespace AutoLotAPI_Core2.Controllers
     [ApiController]
     public class InventoryController : ControllerBase
     {
-        //private readonly AutoLotContext _context;
+       
         private readonly IInventoryRepo _repo;
+
+        static InventoryController()
+        {
+            Mapper.Initialize(cfg => {
+                cfg.CreateMap<Inventory, Inventory>().ForMember(x => x.Orders, opt => opt.Ignore());
+            });
+        }
 
         public InventoryController(IInventoryRepo repo)
         {
             _repo = repo;
-            Mapper.Initialize(cfg =>{
-                    cfg.CreateMap<Inventory, Inventory>().ForMember(x => x.Orders, opt => opt.Ignore());
-                });
+            
         }
 
         // GET: api/Inventory
